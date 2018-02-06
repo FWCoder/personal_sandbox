@@ -1,2 +1,1 @@
-"# personal projects" 
-"# personal_sandbox" 
+PERSONAL PROJECTS and SAMPLE CODES
